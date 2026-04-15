@@ -18,3 +18,8 @@ Sistemas Lineares - Métodos Iterativos:
 - Jacobi-Richardson
 - Gauss-Seidel
 - SOR
+
+Interpolação Polinomial
+- Lagrange
+- Newton-Gregory
+- Spline
