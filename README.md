@@ -23,3 +23,4 @@ Interpolação Polinomial
 - Lagrange
 - Newton-Gregory
 - Spline
+- Interpolação Polinomial de Hermite
