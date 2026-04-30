@@ -24,3 +24,6 @@ Interpolação Polinomial
 - Newton-Gregory
 - Spline
 - Interpolação Polinomial de Hermite
+
+Aproximação de dados e Ajustes de curva - Teoria da Aproximação
+- Mínimos Quadrados
