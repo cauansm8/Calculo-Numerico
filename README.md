@@ -27,3 +27,8 @@ Interpolação Polinomial
 
 Aproximação de dados e Ajustes de curva - Teoria da Aproximação
 - Mínimos Quadrados
+
+Interpolação Numérica - cálculo de integral
+- Trapézio (1° grau)
+- 1/3 de Simpson (2° grau)
+- 3/8 de Simpson (3° grau)
