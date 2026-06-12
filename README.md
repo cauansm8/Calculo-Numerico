@@ -33,3 +33,10 @@ Integração Numérica - cálculo de integral
 - 1/3 de Simpson (2° grau)
 - 3/8 de Simpson (3° grau)
 - Quadratura Gaussiana
+
+Diferenciação Numérica - cálculo de derivada
+- Progressiva (1a derivada)
+- Regressiva (1a derivada)
+- Centrada (1a derivada)
+- Diferenças centrais de 2a ordem (2a derivada - x ou y)
+- Diferenças parciais de 2a ordem (2a derivada - x e y)
